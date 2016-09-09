@@ -3,6 +3,8 @@
 # Coding Guidelines
 *by [Alegri International Service GmbH](http://www.alegri.eu)*
 
+- this document is in draft state -
+
 # Namespaces
 
 We use the recommendation of Microsoft, which is
