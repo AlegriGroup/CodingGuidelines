@@ -33,3 +33,8 @@ It recommended to use tools like SourceTree for easier usage.
 | Name | Description |
 |---|---|
 | [Alegri.Data.EF6](https://github.com/AlegriGroup/Alegri.Data.EF6) | Provides infrastructure elements to build a data access layer based on Entity Framework 6.1.3 |
+
+# Alegri demos on GitHub
+| Name | Description |
+|---|---|
+| [AspNetCore-RTM-1.0-Demos](https://github.com/AlegriGroup/AspNetCore-RTM-1.0-Demos) | TechTalk from [BenjaminAbt](https://github.com/BenjaminAbt) about ASP.NET Core |
