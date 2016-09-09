@@ -1,4 +1,4 @@
-[![Alegri](Alegri-Logo.png)](http://www.alegri.eu)
+[![Alegri](https://github.com/AlegriGroup/StaticResources/raw/master/Alegri-Logo.png)](http://www.alegri.eu)
 
 # Coding Guidelines
 *by [Alegri International Service GmbH](http://www.alegri.eu)*
@@ -35,6 +35,7 @@ It recommended to use tools like SourceTree for easier usage.
 | Name | Description |
 |---|---|
 | [Alegri.Data.EF6](https://github.com/AlegriGroup/Alegri.Data.EF6) | Provides infrastructure elements to build a data access layer based on Entity Framework 6.1.3 |
+| [Alegri.AspNet.UnityExtensions](https://github.com/AlegriGroup/Alegri.AspNet.UnityExtensions) | Provides extensions for ASP.NET and Unity |
 
 # Alegri demos on GitHub
 | Name | Description |
